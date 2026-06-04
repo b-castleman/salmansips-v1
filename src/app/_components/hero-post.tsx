@@ -37,7 +37,7 @@ export function HeroPost({
             <DateFormatter dateString={date} />
           </div>
           <div className="mt-4 text-xl font-bold">
-            Rating: {rating}/5
+            Rating: {rating}/10
           </div>
         </div>
         <div>

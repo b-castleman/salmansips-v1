@@ -35,7 +35,7 @@ export function PostPreview({
         <DateFormatter dateString={date} />
       </div>
       <div className="mb-4 font-bold">
-        Rating: {rating}/5
+        Rating: {rating}/10
       </div>
       <Avatar name={author.name} picture={author.picture} />
     </div>
