@@ -8,7 +8,7 @@ type Props = {
   title: string;
   coverImage: string;
   date: string;
-  excerpt: string;
+  rating: number;
   author: Author;
   slug: string;
 };
@@ -17,7 +17,7 @@ export function PostPreview({
   title,
   coverImage,
   date,
-  excerpt,
+  rating,
   author,
   slug,
 }: Props) {
@@ -34,7 +34,9 @@ export function PostPreview({
       <div className="text-lg mb-4">
         <DateFormatter dateString={date} />
       </div>
-      <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
+      <div className="mb-4 font-bold">
+        Rating: {rating}/5
+      </div>
       <Avatar name={author.name} picture={author.picture} />
     </div>
   );

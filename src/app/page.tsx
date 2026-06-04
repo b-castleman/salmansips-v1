@@ -21,7 +21,7 @@ export default function Index() {
           date={heroPost.date}
           author={heroPost.author}
           slug={heroPost.slug}
-          excerpt={heroPost.excerpt}
+          rating={heroPost.rating}
         />
         {morePosts.length > 0 && <MoreStories posts={morePosts} />}
       </Container>
