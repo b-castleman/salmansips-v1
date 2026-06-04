@@ -5,7 +5,7 @@ rating: 9.888
 author:
   name: "Salman"
   picture: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVKrFNynWKvTaTQJm8sHUD7sv7PJkTRenffg&s"
-coverImage: "https://en.wikipedia.org/wiki/Dr_Pepper"
+coverImage: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Dr_Pepper_Dose_2024.jpg/250px-Dr_Pepper_Dose_2024.jpg"
 ogImage:
-  url: "https://en.wikipedia.org/wiki/Dr_Pepper"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Dr_Pepper_Dose_2024.jpg/250px-Dr_Pepper_Dose_2024.jpg"
 ---
