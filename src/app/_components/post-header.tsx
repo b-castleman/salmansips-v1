@@ -30,7 +30,7 @@ export function PostHeader({ title, coverImage, date, author, rating }: Props) {
           <DateFormatter dateString={date} />
         </div>
         <div className="mb-6 text-2xl font-bold">
-          Rating: {rating}/5
+          Rating: {rating}/10
         </div>
       </div>
     </>
