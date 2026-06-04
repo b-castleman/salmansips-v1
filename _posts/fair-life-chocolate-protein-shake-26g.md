@@ -5,7 +5,7 @@ rating: 9.6
 author:
   name: "Salman"
   picture: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVKrFNynWKvTaTQJm8sHUD7sv7PJkTRenffg&s"
-coverImage: "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?auto=format&fit=crop&q=80&w=1000"
+coverImage: "https://i5.walmartimages.com/asr/cbde3cb0-2183-423a-a06d-5ed43a9575eb.f7bba1590c293d0b106a9d13451794e5.jpeg"
 ogImage:
-  url: "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?auto=format&fit=crop&q=80&w=1000"
+  url: "https://i5.walmartimages.com/asr/cbde3cb0-2183-423a-a06d-5ed43a9575eb.f7bba1590c293d0b106a9d13451794e5.jpeg"
 ---

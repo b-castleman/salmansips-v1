@@ -5,7 +5,7 @@ rating: 5.8
 author:
   name: "Salman"
   picture: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVKrFNynWKvTaTQJm8sHUD7sv7PJkTRenffg&s"
-coverImage: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&q=80&w=1000"
+coverImage: "https://zevia.com/cdn/shop/files/2025_ZVA_US_12oz_Soda_Standard_CreamyRootBeer_Dry_WithShadow_43081d99-a36d-4293-b3b1-9e6e66e5101f.png?v=1770411642"
 ogImage:
-  url: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&q=80&w=1000"
+  url: "https://zevia.com/cdn/shop/files/2025_ZVA_US_12oz_Soda_Standard_CreamyRootBeer_Dry_WithShadow_43081d99-a36d-4293-b3b1-9e6e66e5101f.png?v=1770411642"
 ---

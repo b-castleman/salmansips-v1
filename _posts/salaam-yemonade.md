@@ -5,7 +5,7 @@ rating: 8.93
 author:
   name: "Salman"
   picture: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVKrFNynWKvTaTQJm8sHUD7sv7PJkTRenffg&s"
-coverImage: "https://images.unsplash.com/photo-1544145945-f904253d0c7b?auto=format&fit=crop&q=80&w=1000"
+coverImage: "https://us.salaamcola.com/wp-content/uploads/2024/04/SALAAM-YEMONADE-Can-in-hand-Mockup-1.webp"
 ogImage:
-  url: "https://images.unsplash.com/photo-1544145945-f904253d0c7b?auto=format&fit=crop&q=80&w=1000"
+  url: "https://us.salaamcola.com/wp-content/uploads/2024/04/SALAAM-YEMONADE-Can-in-hand-Mockup-1.webp"
 ---

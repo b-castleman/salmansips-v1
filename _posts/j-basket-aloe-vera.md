@@ -5,7 +5,7 @@ rating: 9.2
 author:
   name: "Salman"
   picture: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVKrFNynWKvTaTQJm8sHUD7sv7PJkTRenffg&s"
-coverImage: "https://images.unsplash.com/photo-1613478223719-2ab802602423?auto=format&fit=crop&q=80&w=1000"
+coverImage: "https://www.asianmarketnatick.com/wp-content/uploads/2020/08/011152296081-1-scaled.jpg"
 ogImage:
-  url: "https://images.unsplash.com/photo-1613478223719-2ab802602423?auto=format&fit=crop&q=80&w=1000"
+  url: "https://www.asianmarketnatick.com/wp-content/uploads/2020/08/011152296081-1-scaled.jpg"
 ---

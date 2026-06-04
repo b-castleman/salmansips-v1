@@ -5,7 +5,7 @@ rating: 5.444
 author:
   name: "Salman"
   picture: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVKrFNynWKvTaTQJm8sHUD7sv7PJkTRenffg&s"
-coverImage: "https://images.unsplash.com/photo-1613478223719-2ab802602423?auto=format&fit=crop&q=80&w=1000"
+coverImage: "https://www.traderjoes.com/content/dam/trjo/products/m303/65333.png/jcr:content/renditions/cq5dam.web.1280.1280"
 ogImage:
-  url: "https://images.unsplash.com/photo-1613478223719-2ab802602423?auto=format&fit=crop&q=80&w=1000"
+  url: "https://www.traderjoes.com/content/dam/trjo/products/m303/65333.png/jcr:content/renditions/cq5dam.web.1280.1280"
 ---

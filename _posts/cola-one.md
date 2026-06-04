@@ -5,7 +5,7 @@ rating: 7.73
 author:
   name: "Salman"
   picture: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVKrFNynWKvTaTQJm8sHUD7sv7PJkTRenffg&s"
-coverImage: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&q=80&w=1000"
+coverImage: "https://exoticsnackguysonline.com/cdn/shop/files/D9EC74DC-D744-4893-A133-D5968EA2020E.jpg?v=1750441500&width=1445"
 ogImage:
-  url: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&q=80&w=1000"
+  url: "https://exoticsnackguysonline.com/cdn/shop/files/D9EC74DC-D744-4893-A133-D5968EA2020E.jpg?v=1750441500&width=1445"
 ---

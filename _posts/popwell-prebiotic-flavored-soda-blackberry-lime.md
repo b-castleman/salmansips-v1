@@ -5,7 +5,7 @@ rating: 6.1
 author:
   name: "Salman"
   picture: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVKrFNynWKvTaTQJm8sHUD7sv7PJkTRenffg&s"
-coverImage: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&q=80&w=1000"
+coverImage: "https://i5.peapod.com/c/34/34QR8.png"
 ogImage:
-  url: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&q=80&w=1000"
+  url: "https://i5.peapod.com/c/34/34QR8.png"
 ---

@@ -5,7 +5,7 @@ rating: 8.3
 author:
   name: "Salman"
   picture: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVKrFNynWKvTaTQJm8sHUD7sv7PJkTRenffg&s"
-coverImage: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&q=80&w=1000"
+coverImage: "https://yummybazaar.com/cdn/shop/files/746b4b816cf09b02a2-83f6-47c4-93f1-3f6ff3f9292e.jpg?v=1753199968"
 ogImage:
-  url: "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&q=80&w=1000"
+  url: "https://yummybazaar.com/cdn/shop/files/746b4b816cf09b02a2-83f6-47c4-93f1-3f6ff3f9292e.jpg?v=1753199968"
 ---

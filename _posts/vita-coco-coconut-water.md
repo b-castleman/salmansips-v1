@@ -5,7 +5,7 @@ rating: 8.43
 author:
   name: "Salman"
   picture: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVKrFNynWKvTaTQJm8sHUD7sv7PJkTRenffg&s"
-coverImage: "https://images.unsplash.com/photo-1551028150-64b9f398f678?auto=format&fit=crop&q=80&w=1000"
+coverImage: "https://beverages2u.com/wp-content/uploads/2019/08/Vita-Coco-Pure-Coconut-Water.jpg"
 ogImage:
-  url: "https://images.unsplash.com/photo-1551028150-64b9f398f678?auto=format&fit=crop&q=80&w=1000"
+  url: "https://beverages2u.com/wp-content/uploads/2019/08/Vita-Coco-Pure-Coconut-Water.jpg"
 ---
